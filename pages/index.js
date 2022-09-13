@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Image from 'next/Image';
+import Image from 'next/image';
 import Header from '../components/Header';
 import { MagnifyingGlassIcon, MicrophoneIcon } from '@heroicons/react/24/solid';
 import Footer from '../components/Footer';
